@@ -14,7 +14,7 @@ na palavra secreta.
 Faça a contagem de tentativas do seu
 usuário.
 """
-
+#os serve para usar comando do kernel com o python
 import os
 
 palavra_secreta = 'carol'
